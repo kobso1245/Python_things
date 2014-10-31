@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1413717049 source:/home/kaloyan/Documents/openGl/test3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glx.h>
+	<GL/gl.h>
+	<X11/X.h>
+	<X11/keysym.h>
+

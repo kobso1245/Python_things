@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1413716233 source:/home/kaloyan/Documents/openGl/Problem S01 E08/main.cpp
+	<stdlib.h>
+	<GL/glfw.h>
+
