@@ -1,0 +1,11 @@
+(define (quadrant x y)
+  (cond ((and (> x 0) (> y 0)) 1) 
+        ((and (> x 0) (< y 0)) 4)
+        ((and (< x 0) (> y 0)) 2)
+        ((and (< x 0) (< y 0)) 3)
+        (else 0)))
+        
+(quadrant 1 1)
+(quadrant -1 1)
+(quadrant -1 -1)
+(quadrant 1 -1)
